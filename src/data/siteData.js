@@ -7,10 +7,10 @@ export const profile = {
   school: 'STITEK Bontang',
   github: 'Clarity69',
   githubUrl: 'https://github.com/Clarity69',
-  linkedinUrl: 'https://www.linkedin.com/in/ahmad-taroqi/',
+  linkedinUrl: 'https://www.linkedin.com/in/ahmad-taroqi-410187411/',
   email: 'taroqiafghani@gmail.com',
   // TODO: ganti dengan username Instagram-mu (tanpa @)
-  instagram: 'taroqi_',
+  instagram: 'username_kamu',
 };
 
 // Navbar dibuat dari daftar ini, jadi selalu sesuai isi halaman.
