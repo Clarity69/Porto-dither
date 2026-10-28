@@ -84,21 +84,6 @@ export const featuredProjects = [
     tech: ["JavaScript", "HTML5", "CSS3"],
     github: "https://github.com/Clarity69/website-form-mhs"
   },
-  {
-   id: 7,
-    fileName: "main.jsx",
-    fileType: "react",
-    title: "ThePorto",
-    image: "/projects/porto.webp",
-    description: "This portfolio — a React + Vite single-page site with a terminal-inspired design, light/dark themes, and project data pulled live from the GitHub API.",
-    points: [
-      "Manages global theme state with React Context and a custom useTheme hook, persisted in localStorage, synced with the OS color scheme, and animated with the View Transitions API.",
-      "Fetches repositories from the GitHub REST API through a custom hook with caching, loading skeletons, and a static fallback; project details open in a lazy-loaded modal.",
-      "Fully responsive down to small phones, with a mobile navigation menu, accessible labels, and optimized WebP images (Lighthouse Performance 100)."
-    ],
-    tech: ["React", "Vite", "JavaScript", "CSS Modules", "GitHub API"],
-    github: "https://github.com/Clarity69/ThePorto"
-  }
 ];
 
 export const otherProjects = [
